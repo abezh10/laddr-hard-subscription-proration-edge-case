@@ -1,4 +1,12 @@
 {
-  "name": "hard-subscription-proration-edge-case",
-  "private": true
+  "name": "laddr-hard-subscription-proration-edge-case",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"Sample repo scaffold\"",
+    "start": "echo \"Sample repo scaffold\""
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
